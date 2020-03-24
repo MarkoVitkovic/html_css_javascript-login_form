@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-I'm creating this login form to help other peoples. Feel free to download of clone projet and upgrade it!
+I'm creating this login form to help other people. Feel free to download or clone project and upgrade it!
 
 ## Screenshots
 ![](https://github.com/MarkoVitkovic/html_css_javascript-login_form/blob/master/sc.png)
