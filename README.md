@@ -26,15 +26,15 @@ I'm creating this login form to help other peoples. Feel free to download of clo
 [@Brackets](https://http://brackets.io/), see [@docs](http://brackets.io/docs/current/modules/brackets.html) for more!
 
 ## Code Examples
-Code:
-`<div class="container">
-        <div class="img">
-            <img class="moments" src="assets/moments.svg">
-        </div>
-        <div class="login">
-            <form action="main.html">
-                <img class="avatar"src="assets/avatar.svg">
-                <h2>Welcome</h2>`
+Code:</br>
+`<div class="container"></br>
+        <div class="img"></br>
+            <img class="moments" src="assets/moments.svg"></br>
+        </div></br>
+        <div class="login"></br>
+            <form action="main.html"></br>
+                <img class="avatar"src="assets/avatar.svg"></br>
+                <h2>Welcome</h2>`</br>
 
 ## Features
 List of features ready and TODOs for future development
