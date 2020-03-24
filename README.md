@@ -18,9 +18,9 @@ I'm creating this login form to help other people. Feel free to download or clon
 ![](https://github.com/MarkoVitkovic/html_css_javascript-login_form/blob/master/sc.png)
 
 ## Technologies
-* HTML
-* CSS
-* JavaScript
+* [HTML](https://devdocs.io/html/)
+* [CSS](https://devdocs.io/css/)
+* [JavaScript](https://devdocs.io/javascript/)
 
 ## Setup
 [Brackets](https://http://brackets.io/), see [docs](http://brackets.io/docs/current/modules/brackets.html) for more!
