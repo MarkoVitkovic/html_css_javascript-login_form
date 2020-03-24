@@ -23,7 +23,7 @@ I'm creating this login form to help other peoples. Feel free to download of clo
 * JavaScript
 
 ## Setup
-[@Brackets](https://http://brackets.io/), see [@docs](http://brackets.io/docs/current/modules/brackets.html) for more!
+[Brackets](https://http://brackets.io/), see [docs](http://brackets.io/docs/current/modules/brackets.html) for more!
 
 ## Code Examples
 Code:</br>
@@ -52,4 +52,4 @@ Project is: _finished_
 Learn deep html,css and javascript.
 
 ## Contact
-Created by [@Marko Vitkovic](https://github.com/MarkoVitkovic) - feel free to contact me!
+Created by [Marko Vitkovic](https://github.com/MarkoVitkovic) - feel free to contact me!
