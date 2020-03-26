@@ -69,9 +69,11 @@ form h2{
 .input-div.focus div h5{
     top: -5px;
     font-size: 15px;
+    color: #FF8C00;   
 }
-input-div.focus:after, input-div.focus:before{
+.input-div.focus:after, .input-div.focus:before{
     width: 50%;
+    color: #FF8C00;   
 }
 .input-div.one{
     margin-top: 0;
@@ -124,7 +126,7 @@ a{
     transition: 0.3s linear;    
 }
 a:hover{
-    color: #38d39f;
+    color: #FF8C00;   
 }
 .btn{
     display: block;
